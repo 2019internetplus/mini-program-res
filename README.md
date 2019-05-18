@@ -1,2 +1,2 @@
 # mini-program-res
-The resources for mini-program
+All the resources in this resposity is for mini-program.
